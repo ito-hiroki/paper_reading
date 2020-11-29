@@ -1,5 +1,5 @@
 ---
-name: ICIP
+name: NIPS
 about: for paper reading
 title: ''
 labels: 'CV, NIPS'
