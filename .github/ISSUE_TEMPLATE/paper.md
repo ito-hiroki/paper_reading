@@ -1,22 +1,42 @@
 ---
-name: Paper
+name: ICIP
 about: for paper reading
 title: ''
 labels: ''
-assignees: ''
+assignees: 'ito-hiroki'
 
 ---
 
-## 概要
+## 論文情報
+Title: 
+Author: 
+Affiliation: 
+Conference: 
+Year: 
+
+## 著者バックグラウンド
 
 
-## 投稿
+## 内容
+#### 一言で表すと？
 
+#### 概要図
 
-## 著者/所属機関
+#### 先行研究との比較
+
+#### 重要点
+
+#### 評価 / 検証
+
+#### 議論
+
+#### 重要文献
+
+#### 疑問
 
 
 ## 参考リンク
 
 
 ## その他メモ
+
