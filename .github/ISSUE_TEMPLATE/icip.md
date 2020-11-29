@@ -2,7 +2,7 @@
 name: ICIP
 about: for paper reading
 title: ''
-labels: ''
+labels: 'CV, ICIP'
 assignees: 'ito-hiroki'
 
 ---
